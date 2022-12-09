@@ -1,0 +1,60 @@
+.button {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    border: 1px solid #0066CC;
+    padding: 5px 24px;
+    background: #0066CC;
+
+    border-radius: 3px;
+}
+
+.disabled {
+    background: #0066CC;
+    opacity: 0.5;
+    color: #002E5C;
+    border: 1px solid #0066CC;
+
+}
+
+.secondary {
+    border: 1px solid #0066CC;
+    color: #0066cc;
+    background: transparent;
+}
+
+.default {
+}
+
+.red {
+    background: #CC1439;
+    border: 1px solid #CC1439;
+}
+
+.default:hover {
+}
+
+.red:hover {
+}
+
+.secondary:hover {
+}
+
+
+.default:active {
+}
+
+.secondary:active {
+}
+
+.red:active {
+}
+
+.button:disabled {
+    color: #002E5C;
+    border: 1px solid #0066CC;
+    background: #0066CC;
+}

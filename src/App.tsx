@@ -8,10 +8,12 @@ import {Error404} from "./page/Error404";
 import {Test} from "./page/Test";
 import {PassRecovery} from "./page/PassRecovery";
 import {NewPass} from "./page/NewPass";
+import {Header} from "./components/Header/Header";
 
 function App() {
     return (
         <div className="App">
+            <Header buttonName={'Sign in'}/>
 
             <Routes>
                 <Route path='/' element={<Test/>}/>
@@ -23,9 +25,8 @@ function App() {
                 <Route path='/newpass' element={<NewPass/>}/>
                 <Route path='*' element={<Navigate to={'/404'}/>}/>
 
-
-
             </Routes>
+
         </div>
     );
 }

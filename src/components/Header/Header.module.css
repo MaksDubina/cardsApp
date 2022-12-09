@@ -1,0 +1,21 @@
+.header {
+    position: fixed;
+    width: 100%;
+    height: 61px;
+    background: #FCFCFC;
+    z-index: 99;
+    box-shadow: 0 0 1px 0 lightgray;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.HeaderContainer {
+    width: 1280px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
