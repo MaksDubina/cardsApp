@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cardsApp/static/css/main.abd64e84.css",
-    "main.js": "/cardsApp/static/js/main.263234b6.js",
+    "main.css": "/cardsApp/static/css/main.2feee469.css",
+    "main.js": "/cardsApp/static/js/main.d9ac3a8c.js",
     "index.html": "/cardsApp/index.html",
-    "main.abd64e84.css.map": "/cardsApp/static/css/main.abd64e84.css.map",
-    "main.263234b6.js.map": "/cardsApp/static/js/main.263234b6.js.map"
+    "main.2feee469.css.map": "/cardsApp/static/css/main.2feee469.css.map",
+    "main.d9ac3a8c.js.map": "/cardsApp/static/js/main.d9ac3a8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.263234b6.js"
+    "static/css/main.2feee469.css",
+    "static/js/main.d9ac3a8c.js"
   ]
 }
